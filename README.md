@@ -24,8 +24,6 @@ El proyecto aplica los conocimientos de diseño, programación y construcción d
 ---
 
 
----
-
 ## 📄 Documentación y Detalles del Juego
 
 Más detalles sobre diseño, mecánicas, decisiones y desarrollo del juego están disponibles en el documento oficial:  
